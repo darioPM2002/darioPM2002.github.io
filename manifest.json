@@ -1,11 +1,11 @@
 {
-    "name": "lealtad_program",
-    "short_name": "lealtad_program",
+    "name": "Programa de lealatad",
+    "short_name": "Programa de lealatad",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Programa de lealatad",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
